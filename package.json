@@ -1,0 +1,19 @@
+{
+  "name": "expresscrashcoursebrad",
+  "version": "1.0.0",
+  "description": "express crash course ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBasnet24/Express.git"
+  },
+  "author": "Sujan Basnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBasnet24/Express/issues"
+  },
+  "homepage": "https://github.com/SBasnet24/Express#readme"
+}
