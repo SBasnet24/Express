@@ -1,0 +1,8 @@
+installed dependencies
+    npm i express --save
+    npm i moment
+
+// moment init 
+    const moment= require("moment");
+    moment() gives the time
+

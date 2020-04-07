@@ -4,7 +4,8 @@
   "description": "express crash course ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SBasnet24/Express/issues"
   },
-  "homepage": "https://github.com/SBasnet24/Express#readme"
+  "homepage": "https://github.com/SBasnet24/Express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "moment": "^2.24.0",
+    "uuid": "^7.0.3"
+  }
 }
